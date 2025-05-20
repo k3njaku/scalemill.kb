@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b31b50a77376c5d",
+        "id": "9038151e57955f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "555ff630ee521b41",
+            "id": "34c20be6cfdf6a5b",
             "type": "leaf",
             "state": {
-              "type": "task-genius-view",
-              "state": {},
-              "icon": "eye",
-              "title": "Review"
+              "type": "markdown",
+              "state": {
+                "file": "Task & Activity Dump 📝📓.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task & Activity Dump 📝📓"
             }
           }
         ]
@@ -170,14 +174,23 @@
               "icon": "git-fork",
               "title": "Smart connections visualizer"
             }
+          },
+          {
+            "id": "a64a281e58ae7044",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +211,11 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt In-place": false,
-      "obsidian-task-progress-bar:Open Task Genius view": false
+      "obsidian-task-progress-bar:Open Task Genius view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "555ff630ee521b41",
+  "active": "34c20be6cfdf6a5b",
   "lastOpenFiles": [
     "Task & Activity Dump 📝📓.md",
     "TaskList.md",
