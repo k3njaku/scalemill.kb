@@ -125,4 +125,6 @@ https://invest.gov.pk/sites/default/files/inline-files/IT.pdf
 
 - [ ] Giving data to FARK 🔺
 - [/] Modification to Commission validation files as AK suggested.
+- [ ] Collect info with AMs on which data we should make the standard.
 - [ ] Payoneer Leads recap and planning
+- [ ] Making a list of keywords and modify ICP doc for Payoneer all markets.
