@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "6286a203b52836af",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b31b50a77376c5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555ff630ee521b41",
+            "type": "leaf",
+            "state": {
+              "type": "task-genius-view",
+              "state": {},
+              "icon": "eye",
+              "title": "Review"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75df6e7970b582c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91736aff7b1ce82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e09e6e850d500b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e0c776ac4b8bda0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4b023477c26c3ece",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f8166232a154282",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b70a1097c3d3b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c1c264ede2cb76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d03148f00a3f8524",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aprill 11 Logs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aprill 11 Logs"
+            }
+          },
+          {
+            "id": "a0991de47a50f3c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2164438a130e87ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6f22a49ab7425a42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The DATAIST.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The DATAIST"
+            }
+          },
+          {
+            "id": "4d929bd81c816783",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-visualizer",
+              "state": {},
+              "icon": "git-fork",
+              "title": "Smart connections visualizer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt In-place": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false
+    }
+  },
+  "active": "555ff630ee521b41",
+  "lastOpenFiles": [
+    "Task & Activity Dump 📝📓.md",
+    "TaskList.md",
+    "QuickCapture.md",
+    "Untitled.md",
+    "Images/Pasted image 20250519162549.png",
+    "Images/Pasted image 20250519162259.png",
+    "Images",
+    "Payoneer Lead Summary.md",
+    "Worklog.md",
+    "Unsorted/AK Notes for Commission.md",
+    "Unsorted/USAE Commission Structure.md",
+    "Unsorted/Notes for Commission (to be Shared).md",
+    "Unsorted/Doodle.canvas",
+    "Unsorted/--April Logs by TJ.md",
+    "Unsorted/Payo Leads Task Tracking.md",
+    "Unsorted/Chiraagtracker Media Check..md",
+    "Unsorted/Task in focus + Braindump🧠 + Reflection + Fuckups.md",
+    "Unsorted/March Data & Commission Check.md",
+    "Unsorted",
+    "Recap.md",
+    "Recap 2.md",
+    "ChatGPT/Wat zijn zonnepanelen.md",
+    "ChatGPT Conversations/Wat zijn zonnepanelen.md",
+    "ChatGPT Conversations",
+    "ChatGPT/Wat zijn zonnepanelen 01.md",
+    "ChatGPT/Unconfirmed 910397.crdownload",
+    "Unsorted/Payoneer Singapore & Philippines ICP (ZoomInfo Filters) .md",
+    "ChatGPT/Wat zijn zonnepanelen 3.md",
+    "ChatGPT/Wat zijn zonnepanelen 2.md",
+    "Images 1/MarchTempPayout_Usman.png",
+    "Project TDP/Project TDP.mdenc",
+    "Project TDP",
+    "Images/Pasted image 20250502190000.png",
+    "Images/Pasted image 20250502162112.png",
+    "Images/Pasted image 20250505133042.png",
+    "Notes for Commission (to be Shared).baked.md",
+    "Images/Pasted image 20250502192756.png",
+    "Images/Pasted image 20250502192336.png",
+    "Images/Pasted image 20250502190649.png",
+    "Images/Pasted image 20250502190426.png",
+    "April All Data",
+    "Unsorted/FARK Data Check.md",
+    "Chiraagtracker/Chiraagtracker AJAX Request.md",
+    "Unsorted/NINJIO Showup Proof Check.md",
+    "Web Research & Data Scraping",
+    "Randomx",
+    "Images 1",
+    "scalemill.kb/Doodle.canvas"
+  ]
+}
