@@ -132,10 +132,16 @@ https://invest.gov.pk/sites/default/files/inline-files/IT.pdf
 	- [ ] Leads exported from ZI
 	- [ ] Pasted in the sheet
 - [ ] Payo leads for BD
-	- [ ] Leads exported from ZI
+	- [ ] Leads exported from ZI for AI Industry
 	- [ ] Pasted in the sheet
 	- [x] Adding duplicates condition for the merge leads tab "BD-IT". This cotains all the IT leads for BD.
 		- [x] filter on full name
 		- [x] filter on email
 - [ ] Payo leads for Singapore (AI)
 - [ ] Payo leads for Philippines (AI)
+April
+Dials:937 
+Connected: 930
+May
+Dials: 2047
+Connected: 2005
