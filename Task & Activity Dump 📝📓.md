@@ -125,6 +125,17 @@ https://invest.gov.pk/sites/default/files/inline-files/IT.pdf
 
 - [ ] Giving data to FARK 🔺
 - [/] Modification to Commission validation files as AK suggested.
-- [ ] Collect info with AMs on which data we should make the standard.
-- [ ] Payoneer Leads recap and planning
-- [ ] Making a list of keywords and modify ICP doc for Payoneer all markets.
+- [/] Collect info with AMs on which data we should make the standard.
+- [/] Payoneer Leads recap and planning
+- [x] Making a list of keywords and modify ICP doc for Payoneer all markets.
+- [ ] Payo leads for PK
+	- [ ] Leads exported from ZI
+	- [ ] Pasted in the sheet
+- [ ] Payo leads for BD
+	- [ ] Leads exported from ZI
+	- [ ] Pasted in the sheet
+	- [x] Adding duplicates condition for the merge leads tab "BD-IT". This cotains all the IT leads for BD.
+		- [x] filter on full name
+		- [x] filter on email
+- [ ] Payo leads for Singapore (AI)
+- [ ] Payo leads for Philippines (AI)
